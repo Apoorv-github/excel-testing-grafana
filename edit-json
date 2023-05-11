@@ -1,0 +1,27 @@
+[
+ {
+   "D": "NAME",
+   "E": "CITY",
+   "F": "Poplation"
+ },
+ {
+   "D": "Apoorv",
+   "E": "Winnipeg",
+   "F": "1000"
+ },
+ {
+   "D": "John",
+   "E": "Calgary",
+   "F": "1000"
+ },
+ {
+   "D": "WICK",
+   "E": "montreal",
+   "F": "1000"
+ },
+ {
+   "D": "Bell",
+   "E": "Winnipeg",
+   "F": "1000"
+ }
+]
